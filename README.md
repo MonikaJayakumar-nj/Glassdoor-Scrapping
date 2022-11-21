@@ -1,1 +1,4 @@
 # Glassdoor-Scrapping
+
+This repository deals with scrapping the glassdoor website and scraps out the data scientist jobs posted on the glassdoor website using selenium chromedriver. Selenium is one of the most widely used open-source browser automation tools in python, mainly used for testing web applications. It is basically a bot that goes through and clicks on the elements of the page and copies them into a data frame. There are also many methods which allow for elements selection on the page, but the main workhorse behind the selenium library is the Web driver, which makes automation of browser tasks a fairly straightforward affair. Also, if we need to scrap a website that is designed using JavaScript, we probably want to go with the selenium approach.
+This project is coded using python programming language. 
